@@ -87,10 +87,13 @@ blockquote {
 ul {
     list-style: square;
     list-style-position: inside;
-	padding: 0 0 10px 0;}
+	padding: 0 0 10px 0;
+}
 
 li {
-	padding: 0 0 10px 0;}
+    margin-left: 40px;
+	padding: 0 0 10px 0;
+}
 
 section li{
 	padding: 0;
@@ -115,8 +118,12 @@ figcaption p {
 
 kbd {
     font-size: 0.95rem;
-    background: #d4f6d8; /*f1f86f *#f6f8d1*/
+    color: black;
+    background: rgb(38, 208, 58); /* f1f86f  d4f6d8 *#*/
     display: inline;
+    padding: 0 2px 0 2px;
+    margin: 0 2px 0 2px;
+
 }
 
 a {
