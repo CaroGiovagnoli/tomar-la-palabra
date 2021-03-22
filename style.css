@@ -171,15 +171,6 @@ a:active {
     text-align: right;
 }
 
-
-
-/*.columntext3 {
-	column-count: 2;
-	column-gap: 40px;
-	margin:30px 0px 30px 0px;
-	column-rule-style: dotted;
-	column-rule-width: 1px;
-	column-rule-color: #5F5F5F;
-	font-size: 0.8rem;
+footer {
+	display: block;
 }
-*/
